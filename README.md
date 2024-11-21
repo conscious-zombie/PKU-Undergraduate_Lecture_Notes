@@ -1,4 +1,4 @@
-# PKU-Undergraduate_Lecture_Notes
+## PKU-Undergraduate_Lecture_Notes
 
 Hi! Welcome to my repository of personal lecture notes from Peking University, Beijing.
 
